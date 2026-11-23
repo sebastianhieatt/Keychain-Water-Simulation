@@ -10,5 +10,5 @@
       "--query-driver=**",
       "--compile-commands-dir=/Users/SebastianHieatt/Desktop/Code/Keychain-Water-Simulation/build"
     ],
-    "cmake.sourceDirectory": "/Users/SebastianHieatt/Desktop/Code/Keychain-Water-Simulation/Keychain-Water-Simulation"
+    "cmake.sourceDirectory": "/Users/SebastianHieatt/Desktop/Code/Keychain-Water-Simulation"
 }
